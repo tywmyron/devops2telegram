@@ -1,0 +1,30 @@
+
+p {color: blue; font-size: 30px; font-weight:bold;}
+
+#mainTitle {color:aqua; font-size:50px;}
+
+body{background-color:rgb(7, 7, 65);color:aqua}
+
+.chapter {color: aqua;}
+
+#videocontainer {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content:center;}
+
+#buttoncontainer { /*can't make the button centre*/
+    display:inline-block;
+    text-align: center;
+    flex-direction: column;
+    align-items: center;
+    justify-content:center;}
+
+
+/* 
+Please note the followings: 
+1) Comment for CSS is indicated using this symbol
+2) The instruction are to be set within the curly bracket {}
+3) Note: # is for ID; . is for Class
+
+*/
