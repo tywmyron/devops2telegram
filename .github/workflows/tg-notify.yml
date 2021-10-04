@@ -1,4 +1,4 @@
-name: tg-notify
+name: tg-notifysa
 
 on: [push, pull_request]
   
